@@ -4,6 +4,6 @@
     <aritcleList></aritcleList>
 </template>
 <script setup>
-    import TopList from '../components/TopList.vue';
-    import aritcleList from '../components/ArticleList.vue';
+import TopList from '../components/TopList.vue';
+import aritcleList from '../components/ArticleList.vue';
 </script>
